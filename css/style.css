@@ -4,6 +4,13 @@
     width: 50px;
     height: 50px;
 }
+h1{
+     margin-left: 700px;
+     display:inline-block;
+     justify-content:center;
+     color:blueviolet;
+
+}
 body{
     height: 100vh;
     background-color: rgb(240, 211, 176);
@@ -46,10 +53,13 @@ body{
     clear: both;
 }
 #messageInp{
-    width: 92px;
+    width: 500px;
     border: 2px solid black;
     border-radius: 6px;
     height: 34px;
+    justify-content: center;
+    margin-top:17px;
+    margin-left: 400px;
 }
 .btn{
     cursor:pointer;
